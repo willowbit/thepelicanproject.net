@@ -211,11 +211,7 @@
     a {
       color: #7C9BDC;
     }
-
-    .house {
-      color: #7C9BDC;
-    }
-
+    
     code {
       background-color: #777;
     }
@@ -300,7 +296,19 @@
   <footer>
 </footer>
 
-    
-</body>
+  <script>
+for (const parent of document.querySelectorAll("body *")) {
+  for (const child of parent.childNodes) {
+    if (child.nodeType === Node.TEXT_NODE) {
+      const pattern = /(House|house)/g;
+      const replacement = "<span style='color:#7C9BDC;'>$1</span>";
+      const subNode = document.createElement("span");
+      subNode.innerHTML = child.textContent.replace(pattern, replacement);
+      parent.insertBefore(subNode, child);
+      parent.removeChild(child);
+    }
+  }
+}
+</script></body>
 
 </html>

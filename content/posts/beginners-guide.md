@@ -22,6 +22,8 @@ Yes, you should pay attention to the footnotes, but don't get so hung up on them
 
 ### Johnny's sections are obnoxious and gross. Do I really have to read them all?
 
+THIS IS A TEST A BORING TEST !@#!@#!@#!@#!@#
+
 How you read the book is up to you, although it's important to note that Johnny's character is gradually revealed over the course of the novel.
 For some, as suggested by Danielewski,[^2] it might help to read The Whalestoe Letters before continuing The Navidson Record, in order to have a better understanding of Johnny's character.
 

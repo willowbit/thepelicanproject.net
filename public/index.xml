@@ -11,9 +11,9 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginner&#39;s Guide</title>
-      <link>http://localhost:1313/beginners-guide/</link>
+      <link>http://localhost:1313/posts/beginners-guide/</link>
       <pubDate>Thu, 07 Mar 2024 19:09:23 -0500</pubDate>
-      <guid>http://localhost:1313/beginners-guide/</guid>
+      <guid>http://localhost:1313/posts/beginners-guide/</guid>
       <description>What edition should I get? House of leaves has gone through many editions (see the Editions Guide), although only three are currently in print:&#xA;Remastered Full-Color (paperback) Remastered Full-Color (hardcover) UK edition (paperback black and white) It&amp;rsquo;s suggested you get either of the full-color editions, as the colored text, artwork, and photographs add greatly to the reading experience.&#xA;Should I read all the footnotes? Danielewski describes House of Leaves as a three-character play,1 with them overlapping each other throughout the narrative.</description>
     </item>
     <item>
@@ -22,6 +22,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/links/</guid>
       <description>Links House of Leaves Exploration Z (markzdanielewski.info) (archive) #hol HoL 4t (houseofleaves.4t.com) (archive) #hol old version of Exploration Z Exploration Z (mzd.rocksmyworld.com) (archive) Exploration Z (mzd.poe.st) (archive) #hol #mzd ShellE Productions (shelle.org) (archive) #hol #poe HoL UK (houseofleaves.co.uk) (archive) #hol POE.ORG (poe.org) (archive) #poe Polish Chick (polishchick.com) (archive) #poe Lunatic_714 (geocities.com/lunatic_714) (archive) #poe David Harty&amp;rsquo;s HoL Page (geocities.com/run_rom_run) (archive) #hol Jessie&amp;rsquo;s Archived Page (kdge.com/houseofleaves4.html) (archive) #hol Edition Information (helicon.net) (archived) #hol iUniverse HoL Community (iuniverse.</description>
+    </item>
+    <item>
+      <title>001</title>
+      <link>http://localhost:1313/snippets/001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snippets/001/</guid>
+      <description>MZD: There are many different ways to describe what is happening in House of Leaves, but I myself have always looked at it as being basically a three-character play. The footnotes just expanded the number of characters who could participate and interact with this main narrative.</description>
+    </item>
+    <item>
+      <title>002</title>
+      <link>http://localhost:1313/snippets/002/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snippets/002/</guid>
+      <description>MZD: My hope is that at least a few readers will read The Whalestoe Letters and then decide to move on to House of Leaves. Those who do will be more likely to feel some sympathy for and be more patient with Johnny because they have a greater understanding of his situation.</description>
     </item>
   </channel>
 </rss>

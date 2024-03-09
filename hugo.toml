@@ -14,11 +14,16 @@ languageCode = "en-US"
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  source = 'source'
+
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy"]
-ignoreErrors = ["error-disable-taxonomy"]
+# disableKinds = ["taxonomy"]
+# ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
-  posts = "/:slug/"
+  posts = "/posts/:slug/"
   tags = "/posts/:slug"
 
 [params]

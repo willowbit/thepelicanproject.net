@@ -1,0 +1,11 @@
+{{ define "main" }}
+<content>
+  <h2>Snippet #{{ .Params.title }}</h2>
+  <h4>From {{ .Params.from }} | {{ .Params.by }}</h4>
+  {{ .Content }}
+  <details>
+    <summary>Full Citation</summary>
+    <pre><code>{{ .Params.citation }}</code></pre>
+  </details>
+</content>
+{{ end }}

@@ -34,8 +34,5 @@ One of the most common questions, and one Mark refuses to give us any lead on. S
 - Film and film analysis plays a large part in House of Leaves. In what ways does the House replicate a bluescreen, like one used on a movie set?
 - In red letter edition bibles, the word of Christ is printed in red ink. In what ways does the color red relate biblically?
 
-[^1]: McCaffery, Larry, and Sinda Gregory. “Haunted House—An Interview with Mark Z. Danielewski.” Critique: Studies in Contemporary Fiction 44, no. 2 (January 2003)
-    > There are many different ways to describe what is happening in House of Leaves, but I myself have always looked at it as being basically a three-character play. The footnotes just expanded the number of characters who could participate and interact with this main narrative.
-
-[^2]: McCaffery, Larry, and Sinda Gregory. “Haunted House—An Interview with Mark Z. Danielewski.” Critique: Studies in Contemporary Fiction 44, no. 2 (January 2003)
-    > My hope ts that at least a few readers will read The Whalestoe Letters and then decide to move on to House of Leaves. Those who do will be more likely to feel some sympathy for and be more patient with Johnny because they have a greater understanding of his situation. I’m sure there are many people out there who have absolutely no sympathy for Johnny.
+[^1]: {{< getsnippet "001.md" >}}
+[^2]: {{< getsnippet "002.md" >}}

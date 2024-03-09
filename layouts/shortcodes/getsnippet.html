@@ -1,0 +1,7 @@
+{{ $filename := .Get 0 }}
+{{ with .Site.GetPage (printf "snippets/%s" $filename) }}
+<a href="{{ .Permalink }}">Go to snippet.</a>
+  {{ .Content }}
+{{ else }}
+  File not found: {{ $filename }}
+{{ end }}

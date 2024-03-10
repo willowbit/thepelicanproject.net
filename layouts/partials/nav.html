@@ -8,3 +8,6 @@
 {{ with .Site.GetPage "links.md"}}
 <a href="{{ "links" | relURL }}">Links</a>
 {{ end }}
+{{ with .Site.GetPage "gallery.md"}}
+<a href="{{ "gallery" | relURL }}">Gallery</a>
+{{ end }}

@@ -8,7 +8,7 @@ tags = []
 
 you've found yourself with a copy of that strange-looking book that's being talked about a lot on the internet. Or maybe you picked it up at a used-book store, intruiged by it's daunting cover. Or maybe you searched it up because of an obscure reference in a DOOM mod. Or maybe you found it on top of a paper-towel dispenser in an airport bathroom, just sitting there, ominously.
 
-Whoever you are, the book you now hold in your hands, whether pristinely new or bursting at the seams, is for you. House of Leaves tells a story like no other, but at the same time, recounts every story that's ever been told. It reaches into the deepest part of us, touching that deep, primal fear we didn't know we had. The fear of loss, of darkness, of passion, and most importantly, of love.
+Whoever you are, the book you now hold in your hands, whether pristinely new or bursting at the seams, is ~~not~~ for you. House of Leaves tells a story like no other, but at the same time, recounts every story that's ever been told. It reaches into the deepest part of us, touching that deep, primal fear we didn't know we had. The fear of loss, of darkness, of passion, and most importantly, of love.
 
 So enjoy your time within the House, navigating it's hallways, cracking it's codes, searching for meaning, as it's one you'll hardly forget.
 
@@ -35,7 +35,7 @@ Danielewski describes House of Leaves as a three-character play, with their narr
 The usual guidance is to read as if you were watching the novel's narrative play out visually.
 So, yes, you should pay attention to the footnotes, but don't get so hung up on them that it hinders the flow of the book.
 
-#### Johnny's sections are obnoxious and gross. Do I really have to read them all?
+### Johnny's sections are obnoxious and gross. Do I really have to read them all?
 
 How you read the book is up to you, although it's important to note that Johnny's character is gradually revealed over the course of the novel.
 For some, as suggested by Danielewski himself,[^2] it might help to read The Whalestoe Letters[^3] before continuing The Navidson Record, in order to have a better understanding of Johnny's character.
